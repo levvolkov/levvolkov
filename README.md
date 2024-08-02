@@ -3,20 +3,17 @@
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img align="right" width="2%" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+
 </br>
 
 <p align="center">
-  <a href="https://levvolkov.github.io/#gh-light-mode-only">
-      <img src="assets/gifs/black-title.png">
-    </a>
-  <a href="https://levvolkov.github.io/#gh-dark-mode-only">
-      <img src="assets/gifs/white-title.png">
-    </a>
+  <a href="https://levvolkov.github.io/#gh-light-mode-only"><img src="assets/gifs/black-title.png" alt="Banner" /></a>
+  <a href="https://levvolkov.github.io/#gh-dark-mode-only"><img src="assets/gifs/white-title.png" alt="Banner" /></a>
 </p>
+
 
 ***<p align="center"> Меня зовут Лев, я начинающий специалист в области тестирования, набирающий знания и опыт в ходе прохождения курса инженер по тестированию в [Нетологии](https://netology.ru/programs/qa-middle#/main). Выявляю недочёты и слабые места программ, чтобы они не подвели пользователей. Например, тестирую процесс регистрации на сайте или проверяю, что в мобильном приложении путь пользователя соответствует сценарию. Мои навыки и знания охватывают различные инструменты и технологии, что подтверждено практическим опытом. </p>***
 
-</br>
 
 <!-- Ручное тестирование веб-приложений -->
 
@@ -29,7 +26,8 @@
 <img width="386px" src="assets/gifs/line.gif">             
 </p>
 
-*<h3 align="center"> «Ручное тестирование <br/> веб-приложений» </h3>*
+
+*<h3 align="center"><a href="https://docs.google.com/spreadsheets/d/12FRLL7s3RniGDJEYNHwJRhJukKVNMLrJR4868zy6Hds/edit?gid=347591775#gid=347591775"> «Ручное тестирование <br/> веб-приложений» </a></h3>*
 
 <p align="center">
  <a href="https://www.atlassian.com/ru/software/jira" title="ATLASSIAN Jira Software"><img src="assets/icon/jira.png" width="30px"/></a> &nbsp;
@@ -39,13 +37,39 @@
 
 *<details align="center">*
 
-*<summary> Курсовая работа </summary>*
+*<summary> Изученный материал </summary>*
 
 *<table border="0" align="center">*
 	<tr>
                 <td><p><img width="700px" src="assets/gifs/png.png"></p>
-		***<p><a href="https://github.com/netology-code/iqa-homeworks">Учебные материалы</a></br></br>
-                <a href="https://github.com/netology-code/iqa-diplom"> Задания курсовой </a></p>***</td>
+		***<p> «Методы и виды тестирования» </p>***</td>
+	</tr>
+        <tr>
+               <td>***<p> «Тестирование ПО. Тест-дизайн» </p>***</td>
+	</tr>
+        <tr>
+               <td>***<p> «Артефакты тестирования. Тестовая документация» </p>***</td>
+	</tr>
+        <tr>
+               <td>***<p> «Артефакты тестирования. Дефекты» </p>***</td>
+	</tr>
+        <tr>
+               <td>***<p> «Инструменты тестирования для работы с документацией» </p>***</td>
+	</tr>
+        <tr>
+               <td>***<p> «Основы клиент-серверного взаимодействия» </p>***</td>
+	</tr>
+        <tr>
+               <td>***<p> «Особенности тестирования web-приложений и работа с Chrome» </p>***</td>
+	</tr>
+        <tr>
+               <td>***<p> «Инструменты тестирования. Клиент-Сервер» </p>***</td>
+	</tr>
+        <tr>
+               <td>***<p> «Жизненный цикл разработки ПО. Гибкие методологии разработки ПО» </p>***</td>
+	</tr>
+        <tr>
+               <td>***<p><img src="assets/gifs/down.gif" width="30" height="25" > «Курсовой проект: проведение тестирования сайта крупной компании» <img src="assets/gifs/down.gif" width="30" height="25" ></p>***</td>
 	</tr>
         <tr>
 	        <td>***<p>«<a href="https://docs.google.com/spreadsheets/d/1izwdoHvAUXkukRRkRCoaPGdZd58F3e-VzDqhPq9L9ys/edit?usp=sharing"> Чеклист 
@@ -76,13 +100,13 @@
 </table>
 
 <p align="center">
-<img width="1%" src="assets/gifs/linedecor.png">             
+<img width="1%" src="assets/gifs/linedecor.png" />             
 </p>
 
 </details>
 
 <p align="center">
-<img width="386px" src="assets/gifs/line.gif"> 
+<img width="386px" src="assets/gifs/line.gif" /> 
 </p>
 
 </td>
@@ -101,7 +125,7 @@
 <img width="386px" src="assets/gifs/line.gif">             
 </p>
 
-*<h3 align="center">  «Git-система <br/> контроля версий» </h3>*
+*<h3 align="center"><a href="https://github.com/netology-code/guides/blob/master/git-basics/GitMaterialsAll.md">  «Git-система <br/> контроля версий» </a></h3>*
 
 <p align="center" >
  <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="assets/icon/VSCode.svg" width="30px"/></a> &nbsp;
@@ -113,15 +137,12 @@
 
 *<details align="center">*
 
-*<summary> Полензные материалы </summary>*
+*<summary> Изученный материал </summary>*
 
 *<table border="0" align="center">*
 	<tr>
                <td>***<p><img width="700px" src="assets/gifs/png.png"></p>***
-                ***<p><a href="https://github.com/netology-code/guides/blob/master/git-basics/GitMaterialsAll.md"> Материалы по работе с Git и GitHub </a></p>***</td> 
-         </tr>
-         <tr>
-               <td>***<p> «Предназначение системы контроля версий» </p>***</td>
+                ***<p> «Предназначение системы контроля версий» </p>***</td>
 	</tr>
         <tr>
 	       <td>***<p>«Основные операции (фиксация и откат изменений, поиск, история)» </p>***</td>
@@ -166,7 +187,7 @@
 <img width="386px" src="assets/gifs/line.gif">             
 </p>
 
-*<h3 align="center"> «Java для <br/> тестировщиков» </h3>*
+*<h3 align="center"><a href="https://github.com/stars/LevVolkov/lists/java-for-testers"> «Java для <br/> тестировщиков» </a></h3>*
 
 <p align="center">
   <a href="https://docs.oracle.com/en/java/javase/11/docs/api/index.html" title="Java"><img src="assets/icon/java.png" width="30px"/></a> &nbsp;
@@ -285,7 +306,7 @@
 <img width="386px" src="assets/gifs/line.gif">             
 </p>
 
-*<h3 align="center"> «Автоматизированное <br/>тестирование» </h3>*
+*<h3 align="center"><a href="https://github.com/stars/LevVolkov/lists/automated-testing"> «Автоматизированное <br/>тестирование» </a></h3>*
 
 <p align="center">
   <a href="https://gradle.org/#gh-dark-mode-only" title="Gradle"><img src="assets/icon/Gradle.svg" width="30px"/></a> 
@@ -384,7 +405,7 @@
 <img width="386px" src="assets/gifs/line.gif">             
 </p>
 
-*<h3 align="center"> «JavaScript для <br/> тестировщиков» </h3>*
+*<h3 align="center"><a href="https://github.com/stars/LevVolkov/lists/javascript-for-testers"> «JavaScript для <br/> тестировщиков» </a></h3>*
 
 <p align="center">
  <a href="https://learn.javascript.ru/" title="JavaScript"><img src="assets/icon/JavaScript.svg" width="30px"/></a> &nbsp;
@@ -456,7 +477,7 @@
 <img width="386px" src="assets/gifs/line.gif">             
 </p>
 
-*<h3 align="center"> «Автоматизация тестирования <br> веб-интерфейсов» </h3>*
+*<h3 align="center"><a href="https://github.com/stars/LevVolkov/lists/testing-web-interfaces"> «Автоматизация тестирования <br> веб-интерфейсов» </a></h3>*
 
 <p align="center">
  <a href="https://nodejs.org/en/download/package-manager" title="Node.js"><img src="assets/icon/nodejs.svg" width="30px"/></a> &nbsp;
@@ -533,19 +554,15 @@
 
 
 <table>
-  <tr>
+  <tr align="center">
     <td>
-      <br> 
-     <p align="center">
-    <a href="https://github.com/LevVolkov?tab=repositories#gh-dark-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LevVolkov&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repositories" width="85%" alt="activity graph">
-    </a>
-   <a href="https://github.com/LevVolkov?tab=repositories#gh-light-mode-only">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LevVolkov&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repositories" width="85%" alt="activity graph">
-    </a>
-</p>
-      </td>
-</tr>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LevVolkov&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repositories&bg_color=FF000000&color=ffffff&title_color=006AFF&point=006AFF&line=006AFF&area_color=006AFF" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LevVolkov&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repositories&bg_color=FF000000&color=000000&title_color=006AFF&point=006AFF&line=006AFF&area_color=006AFF" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LevVolkov&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repositories&bg_color=FF000000&color=006AFF&point=006AFF&line=006AFF&area_color=006AFF" width="85%"/>
+      </picture>
+    </td>
+  </tr>
 </table>
 
 
@@ -557,10 +574,11 @@
 <img width="386px" src="assets/gifs/line.gif">             
 </p>
       
- <p align="center">
-   <a href="https://github.com/LevVolkov?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=LevVolkov&theme=gotham&show_icons=true&count_private=true&hide_border=true"  height="144px" width="370px" alt="LevVolkov github-readme-stats"/></a>
-<a href="https://github.com/LevVolkov?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=LevVolkov&theme=default&show_icons=true&count_private=true&hide_border=true" height="144px" width="370px" alt="LevVolkov github-readme-stats"/></a>
-  </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=LevVolkov&theme=transparent&show_icons=true&count_private=true&hide_border=true&text_color=ffffff&icon_color=006AFF&title_color=006AFF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=LevVolkov&theme=transparent&show_icons=true&count_private=true&hide_border=true&text_color=000000&icon_color=006AFF&title_color=006AFF" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=LevVolkov&theme=transparent&show_icons=true&count_private=true&hide_border=true&text_color=006AFF&icon_color=006AFF&title_color=006AFF" height="160px" width="386px" alt="LevVolkov github-readme-stats"/>
+</picture>
 
 <p  align="center">
 <img width="386px" src="assets/gifs/line.gif">             
@@ -579,10 +597,11 @@
 <img width="386px" src="assets/gifs/line.gif">             
 </p>
  
- <p align="center">
- <a href="https://github.com/LevVolkov?tab=stars#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=LevVolkov&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="144px" width="370px" alt="LevVolkov github-readme-streak-stats"/></a>
-<a href="https://github.com/LevVolkov?tab=stars#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com?user=LevVolkov&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="144px" width="370px" alt="LevVolkov github-readme-streak-stats"/></a>
-</p>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=levvolkov&theme=transparent&hide_border=true&background=00000000&stroke=6495ED&ring=006AFF&fire=006AFF&dates=006AFF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=levvolkov&theme=transparent&hide_border=true&background=00000000&stroke=006AFF&ring=006AFF&fire=006AFF&dates=006AFF&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000" />
+  <img src="https://streak-stats.demolab.com/?user=levvolkov&theme=transparent&hide_border=true&background=00000000&stroke=006AFF&ring=006AFF&fire=006AFF&dates=006AFF&currStreakNum=006AFF&sideNums=006AFF&currStreakLabel=006AFF&sideLabels=006AFF" alt="GitHub Streak" height="160px" width="386px"/>
+</picture>
 
 <p align="center">
 <img width="386px" src="assets/gifs/line.gif">             
@@ -601,10 +620,11 @@
 <img width="386px" src="assets/gifs/line.gif">             
 </p>
       
-<p align="center">
-<a href="https://github.com/LevVolkov?tab=achievements#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=LevVolkov&theme=onestar&no-frame=true&column=3&row=2" height="143px" width="370px" alt="LevVolkov trophy stats"/></a>
-<a href="https://github.com/LevVolkov?tab=achievements#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=LevVolkov&theme=flat&no-frame=true&column=3&row=2" height="143px" width="370px" alt="LevVolkov trophy stats"/></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=levvolkov&theme=dark_dimmed&no-frame=true&column=3&row=2&no-bg=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=levvolkov&theme=flat&no-frame=true&column=3&row=2&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=levvolkov&theme=algolia&no-frame=true&column=3&row=2&no-bg=true" height="160px" width="386px" alt="LevVolkov trophy stats"/>
+</picture>
 
 <p align="center">
 <img width="386px" src="assets/gifs/line.gif">             
@@ -623,12 +643,11 @@
 <img width="386px" src="assets/gifs/line.gif">             
 </p>
       
- <p align="center">
-<a href="https://github.com/LevVolkov?tab=repositories#gh-dark-mode-only">
- <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevVolkov&layout=donut&theme=gotham&show_icons=true&count_private=true&hide_border=true" height="149px" width="370px" alt="LevVolkov github-readme-stats"/></a>
- <a href="https://github.com/LevVolkov?tab=repositories#gh-light-mode-only">
- <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevVolkov&layout=donut&theme=default&show_icons=true&count_private=true&hide_border=true" height="149px" width="370px" alt="LevVolkov github-readme-stats"/></a>
- </p>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LevVolkov&layout=donut&theme=transparent&show_icons=true&count_private=true&hide_border=true&&text_color=ffffff&&title_color=006AFF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LevVolkov&layout=donut&theme=transparent&show_icons=true&count_private=true&hide_border=true&&text_color=000000&&title_color=006AFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevVolkov&layout=donut&theme=transparent&show_icons=true&count_private=true&hide_border=true&&text_color=006AFF&&title_color=006AFF" height="160px" width="386px" alt="LevVolkov github-readme-stats"/>
+</picture>
 
 <p align="center">
 <img width="386px" src="assets/gifs/line.gif">             
@@ -640,17 +659,18 @@
 
 
 <table>
-  <tr>
-    <td>
-
-   <br/>
-<p align="center">
-<a href="https://github.com/pulls?q=is%3Apr+author%3ALevVolkov+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LevVolkov&theme=github_dark&utcOffset=3"  width="31%" alt="LevVolkov productive-time"/></a>
-<a href="https://github.com/pulls?q=is%3Apr+author%3ALevVolkov+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LevVolkov&theme=github&utcOffset=3"  width="31%" alt="LevVolkov productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3ALevVolkov+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LevVolkov&theme=github_dark&hide_border=true"  width="64%" alt="LevVolkov profile-details"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3ALevVolkov+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LevVolkov&theme=github&hide_border=true"  width="64%" alt="LevVolkov profile-details"/></a>
-</p>
-
-</td>
+  <tr align="center">
+    <td> <br>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LevVolkov&theme=github_dark&utcOffset=3" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LevVolkov&theme=github&utcOffset=3" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LevVolkov&theme=transparent&utcOffset=3" width="32%" alt="LevVolkov productive-time"/>
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LevVolkov&theme=github_dark&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LevVolkov&theme=github&hide_border=true" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LevVolkov&theme=transparent" width="66%" alt="LevVolkov profile-details"/>
+      </picture>
+    </td> 
   </tr>
 </table>
