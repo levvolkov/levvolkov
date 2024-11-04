@@ -98,8 +98,10 @@
         <tr>
 	       <td></br></br><p><a href="https://netology.ru/sharing/258baa3ed45659f21616886d99969b52?utm_source=social&utm_campaign=certificate_lms">
 		 <img  width="340px" alt="svg" src="assets/Certificate/web.jpg" /></a> &nbsp; 
-              <a href="https://github.com/levvolkov/levvolkov/blob/master/assets/Certificate/TouchTyping.jpg">
+           <a href="https://github.com/levvolkov/levvolkov/blob/master/assets/Certificate/TouchTyping.jpg">
 	        <img  width="340px" alt="svg" src="assets/Certificate/TouchTyping.jpg" /></a></p></br></td>
+
+              
  </tr>
 </table>
 
