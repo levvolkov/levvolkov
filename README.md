@@ -7,7 +7,7 @@
 </a>
 
 
-***<p align=""> Меня зовут Лев, я начинающий специалист в области тестирования, набирающий знания и опыт в ходе прохождения курса инженер по тестированию в [Нетологии](https://netology.ru/programs/qa-middle#/main). Выявляю недочёты и слабые места программ, чтобы они не подвели пользователей. Например, тестирую процесс регистрации на сайте или проверяю, что в мобильном приложении путь пользователя соответствует сценарию. Мои навыки и знания охватывают различные инструменты и технологии, что подтверждено практическим опытом. </p>***
+***<p align="center"> Меня зовут Лев, я начинающий специалист в области тестирования, набирающий знания и опыт в ходе прохождения курса инженер по тестированию в [Нетологии](https://netology.ru/programs/qa-middle#/main). Выявляю недочёты и слабые места программ, чтобы они не подвели пользователей. Например, тестирую процесс регистрации на сайте или проверяю, что в мобильном приложении путь пользователя соответствует сценарию. Мои навыки и знания охватывают различные инструменты и технологии, что подтверждено практическим опытом. </p>***
 
 
 <p align='center'>
@@ -17,6 +17,7 @@
 <a href="https://levvolkov.github.io/"><img src="https://img.shields.io/static/v1?message=GitHub%20Pages&color=2F4F4F&label=&labelColor=2F4F4F&logo=github&logoColor=ffffff&style=plastic" height="20px"></a>
 </p>
 
+-----
 
 <!-- Ручное тестирование веб-приложений -->
 
@@ -97,8 +98,8 @@
         <tr>
 	       <td></br></br><p><a href="https://netology.ru/sharing/258baa3ed45659f21616886d99969b52?utm_source=social&utm_campaign=certificate_lms">
 		 <img  width="340px" alt="svg" src="assets/Certificate/web.jpg" /></a> &nbsp; 
-              <a href="https://github.com/LevVolkov/LevVolkov/blob/main/assets/Certificate/TouchTyping.jpg">
-		 <img  width="340px" alt="svg" src="assets/Certificate/TouchTyping.jpg" /></a></p></br></td>
+              <a href="https://github.com/levvolkov/levvolkov/blob/master/assets/Certificate/TouchTyping.jpg">
+	        <img  width="340px" alt="svg" src="assets/Certificate/TouchTyping.jpg" /></a></p></br></td>
  </tr>
 </table>
 
@@ -552,7 +553,7 @@
 </tr>
 </table>
 
-
+<!---->
 <!--Tестирование мобильных приложений-->
 
 
@@ -650,7 +651,7 @@
 </table>
 
 
-<!-- Тестирование производительности -->
+<!-- Тестирование производительности и безопасности -->
 
 
 <table align="right" width="100%" >
@@ -667,8 +668,9 @@
  <a href="https://grafana.com/docs/grafana/latest/getting-started/#gh-dark-mode-only" title="Grafana"><img src="assets/icon/grafana-light.svg" width="30px"/></a>
  <a href="https://grafana.com/docs/grafana/latest/getting-started/#gh-light-mode-only" title="Grafana"><img src="assets/icon/grafana-dark.svg" width="30px"/></a> &nbsp;
  <a href="https://www.blazemeter.com/" title="BlazeMeter"><img src="assets/icon/blazemeter.svg" width="30px"/></a> &nbsp;
+ <a href= "https://hub.docker.com/billing/core/purchase?ref=signup" title= "Docker"><img src="assets/icon/Docker.svg"  width="30px"/></a> &nbsp;
  <a href="https://jmeter.apache.org/" title="JMeter"><img src="assets/icon/jmeter.svg" width="30px"/></a> 
- </p>
+</p>
 
 *<details align="center">*
 
@@ -681,27 +683,15 @@
                 <p> Подготовлен список ключевых вопросов для менеджера проекта, чтобы уточнить <br> требования и сценарии использования сайта в период повышенной активности, <br> а также оценены потребности в оборудовании для нагрузки. В результате, <br> определены виды тестирования, включая нагрузочное и стресс-тестирование, <br> с составлением соответствующего плана тестирования для обеспечения <br> стабильности веб-интерфейса в условиях ожидаемого наплыва пользователей.</p>***</td>
         </tr>
 	 <tr>
-	       <td>***<p><a href=""> 2. « » </a></p>
-	       <p>  </p>***</td>
+	       <td>***<p><a href="https://github.com/levvolkov/Load_testing_stand"> 2. «Подготовка стенда нагрузочного тестирования» </a></p>
+	       <p> Успешно развернута система мониторинга на базе Telegraf и InfluxDB, а также <br> Node Exporter и Prometheus с последующим подключением графиков в Grafana. <br> Настроены параметры отправки метрик: для Telegraf — каждые 60 секунд, а <br> для Prometheus — каждые 36 секунд, включая мониторинг оперативной памяти, <br> swap, жесткого диска и сетевых метрик. Проведён тест на отображение всех <br> аппаратных метрик сервера, и сделаны скриншоты состояния  системы <br> в покое, продолжительностью не менее 15 минут. </p>***</td>
 	</tr>
          <tr>
-	       <td>***<p><a href=""> 3. « » </a></p>
-	       <p>  </p>***</td>
+	       <td>***<p><a href="https://github.com/levvolkov/Load_testing_web"> 3. «Проведение нагрузочного тестирования WEB» </a></p>
+	       <p> В ходе выполнения задания по проведению нагрузочного тестирования WEB <br> были успешно осуществлены два раунда тестирования. В первом раунде был <br> написан сценарий тестирования добавления комментария на сайт WordPress <br> через BlazeMeter. Во втором раунде был реализован сценарий тестирования <br> покупки билета и получения QR-кода через систему JMeter. </p>***</td>
 	</tr>
          <tr>
-	       <td>***<p><a href=""> 4. « » </a></p>
-	       <p>  </p>***</td>
-	</tr>
-        <tr>
-	       <td>***<p><a href=""> 5. « » </a></p>
-	       <p> </p>***</td>
-	</tr>
-         <tr>
-	       <td>***<p><a href=""> 6. « » </a></p>
-	       <p>  </p>***</td>
-	</tr>
-         <tr>
-	       <td></br></br><p><a href="https://netology.ru/sharing/b8bb2c4405f05e8f7b1bd6c247496f00?utm_source=social&utm_campaign=certificate_lms "><img  width="350px" alt="svg" src="assets/Certificate/performance.jpg" /></a></p></br></td>
+	       <td></br></br><p><a href="https://netology.ru/sharing/8e5c486bd68deff7244eae2a1899b814?utm_source=social&utm_campaign=certificate_lms"><img  width="350px" alt="svg" src="assets/Certificate/performance.jpg" /></a></p></br></td>
 	</tr>
 </table>
 
