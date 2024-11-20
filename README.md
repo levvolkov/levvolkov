@@ -7,7 +7,7 @@
 </a>
 
 
-***<p align="center"> Меня зовут Лев, я начинающий специалист в области тестирования, набирающий знания и опыт в ходе прохождения курса инженер по тестированию в [Нетологии](https://netology.ru/programs/qa-middle#/main). Выявляю недочёты и слабые места программ, чтобы они не подвели пользователей. Например, тестирую процесс регистрации на сайте или проверяю, что в мобильном приложении путь пользователя соответствует сценарию. Мои навыки и знания охватывают различные инструменты и технологии, что подтверждено практическим опытом. </p>***
+***<p align=""> Меня зовут Лев, и я начинающий специалист в тестировании программного обеспечения. В процессе обучения на курсе «Инженер по тестированию» на образовательной платформе [Нетологии](https://netology.ru/programs/qa-middle#/main) я познакомился с техниками тест-дизайна, работал с Selenide и изучал методологию BDD, создавая качественные тесты на основе пользовательских сценариев. Занимался тестированием с использованием Playwright и Espresso, автоматизацией кроссплатформенных приложений с UI Automator и Appium, а также реализовал систему отчетности Allure для отображения результатов тестирования. Кроме того, проводил нагрузочное тестирование с использованием BlazeMeter и JMeter и настраивал мониторинг с помощью Telegraf, InfluxDB и Prometheus. Моя цель — обеспечить высокое качество цифровых продуктов и внести вклад в развитие команды и проекта. </p>***
 
 
 <p align='center'>
@@ -667,11 +667,14 @@
 *<h3 align="center"><a href="https://github.com/stars/levvolkov/lists/performance-testing"> «Тестирование <br> производительности» </a></h3>*
 
 <p align="center">
- <a href="https://grafana.com/docs/grafana/latest/getting-started/#gh-dark-mode-only" title="Grafana"><img src="assets/icon/grafana-light.svg" width="30px"/></a>
- <a href="https://grafana.com/docs/grafana/latest/getting-started/#gh-light-mode-only" title="Grafana"><img src="assets/icon/grafana-dark.svg" width="30px"/></a> &nbsp;
  <a href="https://www.blazemeter.com/" title="BlazeMeter"><img src="assets/icon/blazemeter.svg" width="30px"/></a> &nbsp;
  <a href= "https://hub.docker.com/billing/core/purchase?ref=signup" title= "Docker"><img src="assets/icon/Docker.svg"  width="30px"/></a> &nbsp;
- <a href="https://jmeter.apache.org/" title="JMeter"><img src="assets/icon/jmeter.svg" width="30px"/></a> 
+ <a href="https://dbeaver.com/docs/dbeaver/#gh-dark-mode-only" title="DBeaver"><img src="assets/icon/dbeaver-light.svg" width="30px"/></a>
+ <a href="https://dbeaver.com/docs/dbeaver/#gh-light-mode-only" title="DBeaver"><img src="assets/icon/dbeaver-dark.svg" width="30px"/></a> &nbsp;
+ <a href="https://jmeter.apache.org/" title="JMeter"><img src="assets/icon/jmeter.svg" width="30px"/></a> &nbsp;
+ <a href="https://www.jenkins.io/download/" title="Jenkins"><img src="assets/icon/jenkins.svg" width="30px"/></a> &nbsp;
+ <a href="https://grafana.com/docs/grafana/latest/getting-started/#gh-dark-mode-only" title="Grafana"><img src="assets/icon/grafana-light.svg" width="30px"/></a>
+ <a href="https://grafana.com/docs/grafana/latest/getting-started/#gh-light-mode-only" title="Grafana"><img src="assets/icon/grafana-dark.svg" width="30px"/></a> 
 </p>
 
 *<details align="center">*
@@ -691,6 +694,14 @@
          <tr>
 	       <td>***<p><a href="https://github.com/levvolkov/Load_testing_web"> 3. «Проведение нагрузочного тестирования WEB» </a></p>
 	       <p> В ходе выполнения задания по проведению нагрузочного тестирования WEB <br> были успешно осуществлены два раунда тестирования. В первом раунде был <br> написан сценарий тестирования добавления комментария на сайт WordPress <br> через BlazeMeter. Во втором раунде был реализован сценарий тестирования <br> покупки билета и получения QR-кода через систему JMeter. </p>***</td>
+	</tr>
+	<tr>
+	       <td>***<p><a href="https://github.com/levvolkov/Database_load_testing"> 4. «Проведение нагрузочного тестирования DB» </a></p>
+	       <p> В процессе выполнения задания по нагрузочному тестированию было <br> успешно запущено склонированное приложение с использованием <br> Docker-контейнеров и обеспечено подключение к базе данных MariaDB с <br> помощью DBeaver. Проведены замеры времени отклика для хранимых <br> процедур dorepeat_v1 и dorepeat_v2, результаты показали, что процедура <br> dorepeat_v2 работает дольше, чем dorepeat_v1 из-за своей более сложной <br> структуры. Установлены соответствующие графики и проведен их анализ. </p>***</td>
+	</tr>
+        <tr>
+	       <td>***<p><a href="https://github.com/levvolkov/Load_testing_report"> 5. «Подготовка отчёта о тестировании и завершение проекта» </a></p>
+	       <p> Проведено тестирование системы сайта WordPress с использованием JMeter <br> для симуляции нагрузки и проверки производительности при записи данных.  <br> Для этого были применены хранимые процедуры, предназначенные для <br> автоматического добавления комментариев в базу данных. Тестирование <br> позволило оценить поведение системы при записи данных без взаимодействия <br> с пользовательским интерфейсом. На основе полученных результатов был <br> составлен отчет, подтверждающий, что система обеспечивает заявленную <br> производительность. </p>***</td>
 	</tr>
          <tr>
 	       <td></br></br><p><a href="https://netology.ru/sharing/8e5c486bd68deff7244eae2a1899b814?utm_source=social&utm_campaign=certificate_lms"><img  width="350px" alt="svg" src="assets/Certificate/performance.jpg" /></a></p></br></td>
