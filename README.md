@@ -229,7 +229,7 @@
 		<p>Создание maven-проекта, написание юнит-тестов с помощью JUnit 5. </p>*</td>
 	</tr>
 	<tr>
-		<td>*<p><a href="https://github.com/levlolkov/packagesAndCycles"> 5. «Пакеты и циклы» </a></p>
+		<td>*<p><a href="https://github.com/levvolkov/packagesAndCycles"> 5. «Пакеты и циклы» </a></p>
 		<p> Использование циклов в программах, практика с пакетированием классов. </p>*</td>
         </tr>
 	<tr>
