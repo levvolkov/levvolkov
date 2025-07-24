@@ -11,9 +11,9 @@
 
 
 <p align='center'>
-<a href="https://t.me/volkovleo"><img src="https://img.shields.io/static/v1?message=Telegram&color=00acee&label=&labelColor=00acee&logo=telegram&logoColor=ffffff&style=plastic" height="20px"></a> 
-<a href="mailto:this.volkovlev@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&color=D14836&label=&labelColor=D14836&logo=gmail&logoColor=ffffff&style=plastic" height="20px"></a> 
-<a href="https://www.linkedin.com/in/levvolkov"><img src="https://img.shields.io/static/v1?message=LinkedIn%20&color=0077B5&label=&labelColor=0077B5&logo=linkedin&logoColor=ffffff&style=plastic"  height="20px"></a> 
+<a href="mailto:this.volkovlev@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&color=D14836&label=&labelColor=D14836&logo=gmail&logoColor=ffffff&style=plastic" height="20px"></a>
+<a href="https://t.me/volkovleo"><img src="https://img.shields.io/static/v1?message=Telegram&color=00acee&label=&labelColor=00acee&logo=telegram&logoColor=ffffff&style=plastic" height="20px"></a>  
+<a href="https://gitlab.com/volkovlev"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=white" height="20px"></a>
 <a href="https://levvolkov.github.io/"><img src="https://img.shields.io/static/v1?message=GitHub%20Pages&color=2F4F4F&label=&labelColor=2F4F4F&logo=github&logoColor=ffffff&style=plastic" height="20px"></a>
 </p>
 
@@ -22,9 +22,9 @@
 <!-- Ручное тестирование веб-приложений -->
 
 
-<table align="left" width="100%" >
+<table align="left" width="100%">
   <tr>
-    <td align="left" width="100%" >
+    <td align="center">
 
 <p align="center">
 <img width="386px" src="assets/gifs/line.gif">             
@@ -123,9 +123,9 @@
 <!-- Git-система контроля версий --> 
 
 
-<table align="right" width="100%" >
+<table align="right" width="100%">
   <tr>
-    <td align="right" width="100%" >
+    <td align="center">
 
 <p align="center">
 <img width="386px" src="assets/gifs/line.gif">             
@@ -185,9 +185,9 @@
 <!--Java для тестеровщиков-->
 
 
-<table align="left" width="100%" >
+<table align="left" width="100%">
   <tr>
-    <td align="left" width="100%" >
+    <td align="center">
 
  <p align="center">
 <img width="386px" src="assets/gifs/line.gif">             
@@ -304,9 +304,9 @@
 <!-- Автоматизированное тестирование -->
 
 
-<table align="right" width="100%" >
+<table align="right" width="100%">
   <tr>
-    <td align="right" width="100%" >
+    <td align="center">
 
 <p align="center">
 <img width="386px" src="assets/gifs/line.gif">             
@@ -403,9 +403,9 @@
 <!--JavaScript для тестеровщиков-->
 
 
-<table align="left" width="100%" >
+<table align="left" width="100%">
   <tr>
-    <td align="left" width="100%" >
+    <td align="center">
 
  <p align="center">
 <img width="386px" src="assets/gifs/line.gif">             
@@ -483,9 +483,9 @@
 <!-- Автоматизация тестирования веб-интерфейсов -->
 
 
-<table align="right" width="100%" >
+<table align="right" width="100%">
   <tr>
-    <td align="right" width="100%" >
+    <td align="center">
 
 <p align="center">
 <img width="386px" src="assets/gifs/line.gif">             
@@ -567,9 +567,9 @@
 <!--Tестирование мобильных приложений-->
 
 
-<table align="left" width="100%" >
+<table align="left" width="100%">
   <tr>
-    <td align="left" width="100%" >
+    <td align="center">
 
  <p align="center">
 <img width="386px" src="assets/gifs/line.gif">             
@@ -664,9 +664,9 @@
 <!-- Тестирование производительности -->
 
 
-<table align="right" width="100%" >
+<table align="right" width="100%">
   <tr>
-    <td align="right" width="100%" >
+    <td align="center">
 
 <p align="center">
 <img width="386px" src="assets/gifs/line.gif">             
@@ -734,9 +734,9 @@
 <!--Тестирование безопасности-->
 
 
-<table align="left" width="100%" >
+<table align="left" width="100%">
   <tr>
-    <td align="left" width="100%" >
+    <td align="center">
 
  <p align="center">
 <img width="386px" src="assets/gifs/line.gif">             
@@ -796,9 +796,9 @@
 <!-- Дипломный проект -->
 
 
-<table align="right" width="100%" >
+<table align="right" width="100%">
   <tr>
-    <td align="right" width="100%" >
+    <td align="center">
 
 <p align="center">
 <img width="386px" src="assets/gifs/line.gif">             
@@ -885,109 +885,43 @@
 </table>
 
 
-<table align="right" width="100%">
-  <tr>
-    <td align="right" width="100%">
-
-<p align="center">
-<img width="386px" src="assets/gifs/line.gif">             
-</p>
-      
+<table>
+  <tr align="center">
+    <td> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=LevVolkov&theme=transparent&show_icons=true&count_private=true&hide_border=true&text_color=c9d1d9&icon_color=006AFF&title_color=006AFF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=LevVolkov&theme=transparent&show_icons=true&count_private=true&hide_border=true&text_color=000000&icon_color=006AFF&title_color=006AFF" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=LevVolkov&theme=transparent&show_icons=true&count_private=true&hide_border=true&text_color=006AFF&icon_color=006AFF&title_color=006AFF" height="160px" width="386px" alt="LevVolkov github-readme-stats"/>
+  <source srcset="https://github.com/levvolkov/github_stats/blob/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_commits.svg" width="55%">
 </picture>
-
-<p  align="center">
-<img width="386px" src="assets/gifs/line.gif">             
-</p>
-      
-   </td>
-  </tr>
-</table>
-
-
-<table align="left" width="100%">
-  <tr>
-    <td align="left" width="100%">
-
-<p align="center">
-<img width="386px" src="assets/gifs/line.gif">             
-</p>
- 
- <p align="center">
-<img  width="366px" src="https://raw.githubusercontent.com/levvolkov/github-stats-svg/main/svg/streak_stats.svg#gh-dark-mode-only"/>
-<img  width="366px" src="https://raw.githubusercontent.com/levvolkov/github-stats-svg/main/svg/streak_stats.svg#gh-light-mode-only"/>
-</p>
-
-<p align="center">
-<img width="386px" src="assets/gifs/line.gif">             
-</p>
-
-  </td>
-</tr>
-</table>
-
-
-<table align="right" width="100%">
-  <tr>
-    <td align="right" width="100%">
-
-<p align="center">
-<img width="386px" src="assets/gifs/line.gif">             
-</p>
-      
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=levvolkov&theme=dark_dimmed&no-frame=true&column=3&row=2&no-bg=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=levvolkov&theme=flat&no-frame=true&column=3&row=2&no-bg=true" />
-  <img src="https://github-profile-trophy.vercel.app/?username=levvolkov&theme=algolia&no-frame=true&column=3&row=2&no-bg=true" height="160px" width="386px" alt="LevVolkov trophy stats"/>
+  <source srcset="https://github.com/levvolkov/github_stats/blob/main/output/stats_langs.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_langs.svg" width="43%">
 </picture>
-
-<p align="center">
-<img width="386px" src="assets/gifs/line.gif">             
-</p>
-      
- </td>
-  </tr>
-</table>
-
-
-<table align="left" width="100%">
-  <tr>
-    <td align="left" width="100%">
-
-<p align="center">
-<img width="386px" src="assets/gifs/line.gif">             
-</p>
-      
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LevVolkov&layout=donut&theme=transparent&show_icons=true&count_private=true&hide_border=true&&text_color=ffffff&&title_color=006AFF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LevVolkov&layout=donut&theme=transparent&show_icons=true&count_private=true&hide_border=true&&text_color=000000&&title_color=006AFF" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LevVolkov&layout=donut&theme=transparent&show_icons=true&count_private=true&hide_border=true&&text_color=006AFF&&title_color=006AFF" height="160px" width="386px" alt="LevVolkov github-readme-stats"/>
+<picture>
+  <source srcset="https://github.com/levvolkov/github_stats/blob/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_general.svg" width="43%">
 </picture>
-
-<p align="center">
-<img width="386px" src="assets/gifs/line.gif">             
-</p>
-
- </td>
+<picture>
+  <source srcset="https://github.com/levvolkov/github_stats/blob/main/output/stats_visitors.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://github.com/levvolkov/github_stats/blob/main/output/stats_visitors.svg" width="55%">
+</picture>
+    </td> 
   </tr>
 </table>
 
 
 <table>
   <tr align="center">
-    <td> <br>
+    <td> 
+      </picture> 
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LevVolkov&theme=github_dark&utcOffset=3" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LevVolkov&theme=github&utcOffset=3" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LevVolkov&theme=transparent&utcOffset=3" width="32%" alt="LevVolkov productive-time"/>
-      </picture>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LevVolkov&theme=github_dark&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LevVolkov&theme=github&hide_border=true" />
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LevVolkov&theme=transparent" width="66%" alt="LevVolkov profile-details"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=levvolkov&theme=github_dark&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=levvolkov&theme=github&hide_border=true" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=levvolkov&theme=transparent" width="64%" alt="Lev Volkov profile-details"/>
+      </picture> &nbsp;
+       <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=levvolkov&theme=github_dark&utcOffset=3" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=levvolkov&theme=github&utcOffset=3" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LevVolkov&theme=transparent&utcOffset=3" width="31%" alt="Lev Volkov productive-time"/>
       </picture>
     </td> 
   </tr>
